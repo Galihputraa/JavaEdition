@@ -1,6 +1,6 @@
 # Project Puspa Jaya
 Anjas Priatama
 
-Galih Jayaningrat SP
+Galih Jayaningrat SP (15312703)
 
-Wahyu Pratama P
+Wahyu Pratama P (15312519)
